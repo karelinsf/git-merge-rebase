@@ -279,4 +279,5 @@ Fast-forward
 
 ![проведен rebase](img/git-rebase.PNG)
 
+Я сделал все по инструкции сто раз, но ветки упорно не сходятся. Хотя гит говорит, что все нормально (скрины выше)
 https://github.com/karelinsf/git-merge-rebase/network
